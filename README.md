@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/WoobinMin/Mybox"><img src="https://img.shields.io/badge/MyBox-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<a href="https://github.com/WoobinMin/Mybox"><img src="https://img.shields.io/badge/MyBox-000000?style=flat-square&logo=Hack The Box&logoColor=#9FEF00"/></a>
 
  
 **WoobinMin/WoobinMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
