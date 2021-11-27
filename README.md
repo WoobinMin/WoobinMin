@@ -1,4 +1,4 @@
-<a href="minwoobin2000@gmail.com"><img src="https://img.shields.io/badge/MyBox-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="minwoobin2000@gmail.com"><img src="https://img.shields.io/badge/minwoobin2000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Hi there 👋
 유니티 관련 레포지토리 링크
