@@ -22,4 +22,4 @@ I enjoy playing Game too. 🎮
 
 <a href="https://github.com/WoobinMin/SoundController"><img src="https://img.shields.io/badge/Sound Controller-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
-**Sound Controller** 는 인디게임 제작에 있어 용이한 Sound Controller Single Ton Script
+**Sound Controller** 는 인게임 사운드 관리에 용이한 Single Ton Script
