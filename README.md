@@ -18,8 +18,8 @@ I enjoy playing Game too. 🎮
 ### 📫 Useful Repository Rink
 <a href="https://github.com/WoobinMin/Mybox"><img src="https://img.shields.io/badge/MyBox-9FEF00?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
 
-**MyBox** 는 유니티 유료에셋 Odin-Serialize와 비슷하게 Attribute를 통해 Ispector를 원하는대로 표기하게끔 도와주는 Util Tool
+**Mybox** is, similar to Unity Asset Odin-Serialize, a Utility Tool that helps you mark Ispector as you want through Attribute.
 
 <a href="https://github.com/WoobinMin/SoundController"><img src="https://img.shields.io/badge/Sound Controller-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
-**Sound Controller** 는 인게임 사운드 관리에 용이한 Single Ton Script
+**Sound Controller** is Single Ton Script for easy in-game sound management.
