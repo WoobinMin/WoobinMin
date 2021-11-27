@@ -2,8 +2,8 @@
 <a href="https://www.instagram.com/0r7l_ubinzzang/"><img src="https://img.shields.io/badge/0r7l_ubinzzang-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ###  Hi there! 👋
- I'm **Game Developer** using <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> and <img src="https://img.shields.io/badge/Cocos Creator-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/></a>.
- I also enjoy playing Game ❤
+I'm **Game Developer** using <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> and <img src="https://img.shields.io/badge/Cocos Creator-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/></n>.
+I also enjoy playing Game ❤
 
 유니티 관련 레포지토리 링크
 
