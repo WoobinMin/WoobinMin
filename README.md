@@ -3,7 +3,8 @@
 
 ###  Hi there! 👋
 I'm **Game Developer** using <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> and <img src="https://img.shields.io/badge/Cocos Creator-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/>.
-\nI enjoy playing Game too.❤
+
+I enjoy playing Game too. 🎮
 
 유니티 관련 레포지토리 링크
 
