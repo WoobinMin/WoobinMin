@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
  
  
 **WoobinMin/WoobinMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
