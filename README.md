@@ -7,9 +7,9 @@ I'm **Game Developer** using <img src="https://img.shields.io/badge/Unity-000000
 I enjoy playing Game too. 🎮
 
 ### 💪 Skills 
-## Tools
+#### Tools
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Cocos Creator-55C2E1?style=flat-square&logo=Cocos&logoColor=white"/> 
-## Languages
+#### Languages
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 
