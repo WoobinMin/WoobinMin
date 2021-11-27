@@ -1,7 +1,7 @@
 <a href="mailto:minwoobin2000@gmail.com"><img src="https://img.shields.io/badge/minwoobin2000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/0r7l_ubinzzang/"><img src="https://img.shields.io/badge/0r7l_ubinzzang-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-### Hi there 👋
+### 👋 Hi there! 
 유니티 관련 레포지토리 링크
 
 ### MyBox 
