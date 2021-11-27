@@ -16,9 +16,10 @@ I enjoy playing Game too. 🎮
 
 
 ### 📫 Useful Repository Rink
-<a href="https://github.com/Deadcows/MyBox"><img src="https://img.shields.io/badge/MyBox-9FEF00?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
+<a href="https://github.com/WoobinMin/Mybox"><img src="https://img.shields.io/badge/MyBox-9FEF00?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
 
 **Mybox** is, similar to Unity Asset Odin-Serialize, a Utility Tool that helps you mark Ispector as you want through Attribute.
+*Thanks to **Deadcows***
 
 <a href="https://github.com/WoobinMin/SoundController"><img src="https://img.shields.io/badge/Sound Controller-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
