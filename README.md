@@ -27,4 +27,5 @@ I enjoy playing Game too. 🎮
 
 <a href="https://github.com/WoobinMin/RandomMapGeneratorWithTileMap"><img src="https://img.shields.io/badge/RandomMapGenerator-CC0000?style=flat-square&logo=RetroPie&logoColor=white"/></a>
 
-**Sound Controller** is Single Ton Script for easy in-game sound management.
+**RandomMapGenerator** is making a random dungeon(map) with tilemap.
+*Thanks to **Sunny Valley Studio***
