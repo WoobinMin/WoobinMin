@@ -24,3 +24,7 @@ I enjoy playing Game too. 🎮
 <a href="https://github.com/WoobinMin/SoundController"><img src="https://img.shields.io/badge/Sound Controller-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
 **Sound Controller** is Single Ton Script for easy in-game sound management.
+
+<a href="https://github.com/WoobinMin/RandomMapGeneratorWithTileMap"><img src="https://img.shields.io/badge/RetroPie-CC0000?style=flat-square&logo=RandomMapGenerator&logoColor=white"/></a>
+
+**Sound Controller** is Single Ton Script for easy in-game sound management.
