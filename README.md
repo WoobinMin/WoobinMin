@@ -25,6 +25,6 @@ I enjoy playing Game too. 🎮
 
 **Sound Controller** is Single Ton Script for easy in-game sound management.
 
-<a href="https://github.com/WoobinMin/RandomMapGeneratorWithTileMap"><img src="https://img.shields.io/badge/RetroPie-CC0000?style=flat-square&logo=RandomMapGenerator&logoColor=white"/></a>
+<a href="https://github.com/WoobinMin/RandomMapGeneratorWithTileMap"><img src="https://img.shields.io/badge/RandomMapGenerator-CC0000?style=flat-square&logo=RetroPie&logoColor=white"/></a>
 
 **Sound Controller** is Single Ton Script for easy in-game sound management.
