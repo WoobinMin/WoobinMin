@@ -11,6 +11,8 @@ I enjoy playing Game too. 🎮
 <a href="https://www.instagram.com/0r7l_ubinzzang/"><img src="https://img.shields.io/badge/woonenii-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
 <br />
 <br />
+<br />
+<br />
   
 ### 💪 Skills 
 ---
@@ -20,7 +22,10 @@ I enjoy playing Game too. 🎮
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 
-
+<br />
+<br />
+<br />
+<br />
 ### ✅ Activity History
 
 #### 1. 개발의 민족 [200301 ~ 200814]
