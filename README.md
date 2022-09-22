@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=DogFootprint&fontSize=90)
 
 <div align="center">
-###💪 Skills
-</div>
+    💪 Skills
+
 
 
 <a href="mailto:minwoobin2000@gmail.com"><img src="https://img.shields.io/badge/minwoobin2000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -29,3 +29,4 @@ I enjoy playing Game too. 🎮
 ● 첫 팀프로젝트
 
 ● 스마일 게이트 멤버쉽(SMG) 1차 합격 , BIC, GIGDC 지원
+</div>
