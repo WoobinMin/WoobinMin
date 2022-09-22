@@ -29,6 +29,4 @@ Instagram : <a href="https://www.instagram.com/0r7l_ubinzzang/"><img src="https:
   
 ### ✅ My Projects
 ---
-[아니마 프로젝트] made by 개발의 민족 [200301 ~ 200814]  
-[Mare](https://github.com/WoobinMin/IFYAStudio) made by 이프야스튜디오 [210220 ~ 211131]  
-[eBoomKick](https://github.com/WoobinMin/eBoomKick) made by GameMakers 게임잼 [211105~211107]
+[Notion](https://www.notion.so/My-Projects-cf023517cbd04bcd93bfd88a3d5c8796)
