@@ -1,8 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=DogFootprint&fontSize=90)
 
-<div align="center">
-    💪 Skills
-
+💪 Skills
 
 
 <a href="mailto:minwoobin2000@gmail.com"><img src="https://img.shields.io/badge/minwoobin2000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
