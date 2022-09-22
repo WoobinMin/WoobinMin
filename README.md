@@ -30,4 +30,4 @@ Instagram : <a href="https://www.instagram.com/0r7l_ubinzzang/"><img src="https:
 ### ✅ My Projects
 ---
   
-<a href="https://www.notion.so/My-Projects-cf023517cbd04bcd93bfd88a3d5c8796"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://plain-dance-18f.notion.site/My-Projects-cf023517cbd04bcd93bfd88a3d5c8796"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
