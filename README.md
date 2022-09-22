@@ -30,4 +30,4 @@ I enjoy playing Game too. 🎮
 ### ✅ Projects
 ---
 [아니마 프로젝트] made by 개발의 민족 [200301 ~ 200814]  
-[Mare] made by 이프야스튜디오 [210220 ~ 211030]
+[Mare](https://github.com/WoobinMin/IFYAStudio) made by 이프야스튜디오 [210220 ~ 211030]
