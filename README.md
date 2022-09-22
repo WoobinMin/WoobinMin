@@ -29,4 +29,4 @@ I enjoy playing Game too. 🎮
   
 ### ✅ Projects
 ---
-#### 1. [아니마 프로젝트(https://github.com/WoobinMin/Alchemystic/tree/main)] by 개발의 민족 [200301 ~ 200814]
+#### 1. [아니마 프로젝트](https://github.com/WoobinMin/Alchemystic/tree/main) by 개발의 민족 [200301 ~ 200814]
