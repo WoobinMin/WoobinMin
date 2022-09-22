@@ -27,11 +27,6 @@ I enjoy playing Game too. 🎮
 <br />
 <br />
   
-### ✅ Activity History
+### ✅ Projects
 ---
-#### 1. 개발의 민족 [200301 ~ 200814]
-#### a. 아니마 프로젝트
-● 첫 팀프로젝트
-
-● 스마일 게이트 멤버쉽(SMG) 1차 합격 , BIC, GIGDC 지원
-</div>
+#### 1. [아니마 프로젝트(https://github.com/WoobinMin/Alchemystic/tree/main)] by 개발의 민족 [200301 ~ 200814]
