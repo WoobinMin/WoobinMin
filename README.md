@@ -13,10 +13,6 @@ Unity3D & C# / Cocos Creator & TypeScript 기반의 클라이언트 개발자로
 * 📄 [이력서 (Resume)](https://www.notion.so/1d91e102612780e1bde6d1d12a486c41)
 * 📁 [포트폴리오 (Portfolio)](https://www.notion.so/1de1e102612780fb94e0fd953531acc3?pvs=4)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-Thanks for visiting! 😊
-
 ---
 
 ## 💼 경력
